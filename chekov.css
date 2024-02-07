@@ -1,0 +1,20 @@
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    color: #000000;
+}
+.Direction{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    background-color: skyblue;
+}
+.Direction.hover{
+    background-color: green;
+    color: #000;
+}
+.MARINA{
+    color:aqua
+}
+.ASTROFF{
+    color:aquamarine
+}
