@@ -36,3 +36,37 @@ table,th,td{
     padding: 10px;
     margin: 1px;
 }
+
+.bottom-navbar {
+    background-color: rgb(113, 213, 231);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-navbar a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.bottom-navbar i {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.bottom-navbar a:hover {
+    color: rgb(8, 2, 2); /* Change the color on hover as per your design */
+}
+
+.fa {
+  padding-top: 1%;
+}
