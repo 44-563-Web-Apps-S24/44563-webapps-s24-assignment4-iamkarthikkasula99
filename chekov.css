@@ -13,13 +13,23 @@
     color: #000;
 }
 .MARINA{
-    color:aqua
+    color:aqua;
 }
 .ASTROFF{
-    color:aquamarine
+    color:aquamarine;
 }
+.VOITSKI{
+    color:blue;
+}
+.VOITSKI:hover{
+    text-shadow: 3px 3px red;
+    filter:blur(00.25px);
+    border:1px solid black;
+    width: fit-content;
+}
+
 table,th,td{
-    border: 1px solid red;
+    border: 1px solid brown;
     border-collapse: collapse;
     border-color: black;
     text-align: center;
