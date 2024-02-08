@@ -18,3 +18,11 @@
 .ASTROFF{
     color:aquamarine
 }
+table,th,td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    border-color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 1px;
+}
